@@ -1,0 +1,38 @@
+<wpml-config>
+    <admin-texts>
+		<key name="bookyourtravel">
+			<key name="website_logo_upload" />
+			<key name="contact_company_name" />
+			<key name="contact_phone_number" />
+			<key name="contact_address_street" />
+			<key name="contact_address_city" />
+			<key name="contact_address_country" />
+			<key name="contact_email" />
+			<key name="business_address_latitude" />
+			<key name="business_address_longitude" />
+			<key name="copyright_footer" />
+			<key name="locations_permalink_slug" />
+			<key name="accommodations_permalink_slug" />
+			<key name="tours_permalink_slug" />
+			<key name="car_rentals_permalink_slug" />
+			<key name="cruises_permalink_slug" />
+			<key name="search_box_what_text" />
+			<key name="search_box_where_text" />
+			<key name="search_box_when_text" />
+			<key name="search_box_who_text" />			
+			<key name="search_box_accommodation_location_text" />
+			<key name="search_box_accommodation_location_placeholder" />
+			<key name="search_box_car_rental_location_text" />
+			<key name="search_box_car_rental_location_placeholder" />
+			<key name="search_box_tour_location_text" />
+			<key name="search_box_tour_location_placeholder" />
+			<key name="search_box_accommodation_date_from_text" />
+			<key name="search_box_accommodation_date_to_text" />
+			<key name="search_box_car_rental_date_from_text" />
+			<key name="search_box_car_rental_date_to_text" />
+			<key name="search_box_tour_date_from_text" />
+			<key name="search_box_cruise_date_from_text" />
+			<key name="search_box_submit_button_text" />			
+		</key>
+    </admin-texts>
+</wpml-config>
